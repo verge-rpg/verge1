@@ -1,0 +1,16 @@
+Misc source release notes.
+
+There's too much here to write an adequete source description in the time
+that I have, so I'm not even going to try.
+
+Some of the routines in VGA.C might look really non-practical, but they
+are faster than the more obvious ways of going about it. They could still
+be optimized even more, but there's not really any point in doing that.
+
+I use a modified version of MikMod 2.09. You shouldn't need to modify mikmod.a
+but if you do the source to the version I use is in mikmod.zip.
+
+There's a lot of stuff that doesn't make sense. Live with it. Or better
+yet, fix it. Just do NOT complain to me about it.
+
+- vecna@inlink.com
